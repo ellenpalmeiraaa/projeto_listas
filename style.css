@@ -1,0 +1,21 @@
+#itens{
+    color: #e22b96;
+    font-variant: small-caps;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#passos{
+    font-size: 20px;
+    color: #67dae2;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1{
+  color: #b67fe4;
+}
+
+h2{
+    color: rgb(204, 245, 220);
+    background-color: #b6b3b3;
+}
+
